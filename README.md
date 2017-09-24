@@ -35,4 +35,6 @@ Once the working copy is created, you can use the normal ``vlt up`` and ``vlt ci
 The CRX host and port can be specified on the command line with:
 mvn -Dcrx.host=otherhost -Dcrx.port=5502 <goals>
 
+## Apply Jenkins CI
+http://35.198.202.58:8080/job/wknd-sites-guide_Dev_Author
 
